@@ -6,5 +6,8 @@ Etapes pour creer un nouveau commit :
 
 	-Modifier le fichier voulu, ici Readme
 	-Aller dans le terminal 
-	-Taper "Git ad ."
+	-Taper "Git add ."
 	-Ensuite " Git commit -m "nom de la modif"".
+
+
+Confirmation fonctionnement du push
